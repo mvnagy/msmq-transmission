@@ -1,2 +1,2 @@
 # msmq-transmission
-A simple client server application for MSMQ
+A simple C# client server application for MSMQ
